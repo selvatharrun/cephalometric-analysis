@@ -1,0 +1,16 @@
+{
+    "nose_tip": {
+        "coordinates": {
+            "x": 388,
+            "y": 101
+        },
+        "status": "ok"
+    },
+    "mouth": {
+        "coordinates": {
+            "x": 105,
+            "y": 305
+        },
+        "status": "ok"
+    }
+}
