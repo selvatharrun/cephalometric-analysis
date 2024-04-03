@@ -1,0 +1,13 @@
+train: /home/selvatharrun/Documents/GitHub/cephalometric-analysis/face cephalometry.v6i.yolov8/train
+val: /home/selvatharrun/Documents/GitHub/cephalometric-analysis/face cephalometry.v6i.yolov8/valid
+test: /home/selvatharrun/Documents/GitHub/cephalometric-analysis/face cephalometry.v6i.yolov8/test
+
+nc: 26
+names: ['ac', 'al', 'c', 'ch', 'cm', 'en', 'ex', 'ft', 'g', 'gn', 'li', 'll', 'ls', 'mp', 'n', 'pg', 'pra', 'prn', 'r', 'sa', 'sba', 'sn', 'st', 'tr', 'undefined', 'zy']
+
+roboflow:
+  workspace: selva-tharrun
+  project: face-cephalometry
+  version: 6
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/selva-tharrun/face-cephalometry/dataset/6
